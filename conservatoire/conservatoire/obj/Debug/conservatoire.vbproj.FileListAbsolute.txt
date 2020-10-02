@@ -1,0 +1,40 @@
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.exe.config
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.exe
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.pdb
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.xml
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\bin\Debug\MySql.Data.dll
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbprojAssemblyReference.cache
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Resources.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbproj.GenerateResource.cache
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbproj.CoreCompileInputs.cache
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbproj.CopyComplete
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.exe
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.xml
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.pdb
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.ListeDesEtudiants.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Etudiants.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Etudiants2.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.ListeDesProfs.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Professeur.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Professeur2.resources
+C:\Users\21652\Desktop\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Menu.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.exe.config
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.exe
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.pdb
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\bin\Debug\conservatoire.xml
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\bin\Debug\MySql.Data.dll
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbprojAssemblyReference.cache
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.ListeDesEtudiants.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.ListeDesProfs.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Menu.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Resources.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Professeur.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Professeur2.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Etudiants.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.Etudiants2.resources
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbproj.GenerateResource.cache
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbproj.CoreCompileInputs.cache
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.vbproj.CopyComplete
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.exe
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.xml
+C:\Users\21652\Desktop\ENSI\Projet 1ere\projet1\conservatoire\conservatoire\obj\Debug\conservatoire.pdb

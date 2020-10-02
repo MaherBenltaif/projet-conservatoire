@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+conservatoire
+</name>
+</assembly>
+<members>
+<member name="T:conservatoire.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:conservatoire.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:conservatoire.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:conservatoire.BaseDeDonne.Connect">
+ <summary>
+ Permet de creer le connection
+ </summary>
+ ''' <returns></returns>
+</member>
+<member name="M:conservatoire.BaseDeDonne.GetCommande(System.String)">
+ <summary>
+ Permet d'initialiser une commandde pour executer une requete sql 
+ </summary>
+ <param name="sql">la requete sql a executer</param>
+ <returns></returns>
+</member>
+<member name="M:conservatoire.ListeDesEtudiants.RemplirListView">
+ <summary>
+ Permet de charger les donnees de la base de donnees sur la ListView
+ </summary>
+</member>
+</members>
+</doc>
